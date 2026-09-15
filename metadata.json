@@ -1,0 +1,6 @@
+{
+  "name": "P. C. Dental Clinic",
+  "description": "Official website for P. C. Dental Clinic (পি. সি. ডেন্টাল ক্লিনিক) in Baghajatin, Kolkata. Professional, comfortable, patient-focused dental care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
